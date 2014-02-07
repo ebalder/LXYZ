@@ -8,18 +8,22 @@
         margin: 0px;
         padding: 0px;
       }
+      canvas{ 
+        border: 1px solid;
+        display:block;
+        margin:auto;
+        margin-top:30px;
+      }
     </style>
-    <script type="text/javascript" src="mandelbrot.js"></script>
+    <script type="text/javascript" src="index.js"></script>
     <script type="text/javascript">
       window.addEventListener("load", function () {
-          var canvas = document.getElementById("fractal")
-          mandelbrot = new Mandelbrot(canvas, 5);
-          // This will resize the canvas and kick off the initial redraw.
-          mandelbrot.resize_to_parent();
+          var canvas = document.getElementById("fractal");
+          mandelbrot = new Mandelbrot(canvas, 7);
       }, false);
     </script>
   </head>
   <body>
-    <canvas id="fractal" width="800" height="600"></canvas>
+    <canvas id="fractal" width="1000" height="600"></canvas>
   </body>
 </html>
