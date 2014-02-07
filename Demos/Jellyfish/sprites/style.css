@@ -1,0 +1,28 @@
+
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+canvas{ 
+  border: 1px solid;
+  display:block;
+  margin: auto;
+}
+footer{
+  font-size: 0.9em;
+  margin: 10 50;
+}
+#overlay{
+  background-image:url('overlay.png');
+  opacity : 0.2;
+  height: 500px;
+  position: absolute;
+  width:500px;
+}
+#wrapp{
+  height: 500;
+  margin: auto;
+  width: 500;
+}
