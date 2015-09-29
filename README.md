@@ -4,9 +4,9 @@ DevArt
 Tiny Projects
 
 Generated Jellyfish
-  * [Simple (bad performance)](http://lexas.github.io/DevArt/Jellyfish/)
-  * [Sprited](http://lexas.github.io/DevArt/Jellyfish/sprites)
+  * [Real Time](http://lexas.github.io/LXYZ/Jellyfish/)
+  * [Sprited](http://lexas.github.io/LXYZ/Jellyfish/sprites)
   * Wrokers (comming)
 
 Mandelbrot set
-  * [Simple](http://lexas.github.io/DevArt/Mandelbrot)
+  * [Simple](http://lexas.github.io/LXYZ/Mandelbrot)
