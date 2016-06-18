@@ -12,4 +12,4 @@ Mandelbrot set
   * [Simple](http://lexas.github.io/LXYZ/Mandelbrot)
 
 
-  asdfkajsdhfiuaweshfi uasdfjausdf dlfkj aosi fjiasdouf ja asdfas
+  uasdfjausdf dlfkj aosi fjiasdouf ja asdfas
